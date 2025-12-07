@@ -1,5 +1,14 @@
 # 🚀 Awesome Automation · Frontend · AI · Cross-Platform
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Category-Automation](https://img.shields.io/badge/Category-Automation-4C9A2A)
+![Category-Frontend](https://img.shields.io/badge/Category-Frontend-0A84FF)
+![Category-AI](https://img.shields.io/badge/Category-AI-8E44AD)
+![Category-CrossPlatform](https://img.shields.io/badge/Category-CrossPlatform-FF8A00)
+![Stars](https://img.shields.io/github/starswwt511/awesome-automation-ai?style=flat&color=yellow)
+![Forks](https://img.shields.io/github/forkswwt511/awesome-automation-ai?style=flat&color=orange)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 
 
